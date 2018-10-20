@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Pader&#39;s Blog</title>
+  <subtitle>Pader&#39;s Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://paderlol.cn/"/>
+  <updated>2018-10-18T14:17:20.520Z</updated>
+  <id>http://paderlol.cn/</id>
+  
+  <author>
+    <name>Pader</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>index.md</title>
+    <link href="http://paderlol.cn/index-md.html"/>
+    <id>http://paderlol.cn/index-md.html</id>
+    <published>2018-10-18T14:17:20.000Z</published>
+    <updated>2018-10-18T14:17:20.520Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
