@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://paderlol.cn/"/>
-  <updated>2018-10-20T11:17:08.392Z</updated>
+  <updated>2018-10-20T12:22:39.841Z</updated>
   <id>http://paderlol.cn/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://paderlol.cn/spring-boot01.html"/>
     <id>http://paderlol.cn/spring-boot01.html</id>
     <published>2018-10-20T07:38:22.000Z</published>
-    <updated>2018-10-20T11:17:08.392Z</updated>
+    <updated>2018-10-20T12:22:39.841Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/spring-boot01/spring-boot.png" alt="spring-boot"></p>
 <h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h4><blockquote>
@@ -117,11 +117,10 @@
 </li>
 </ul>
 </blockquote>
-<p>   `</p>
 <ul>
-<li><p>RelaxedPropertyResolver<code>类解析工具被删除掉,由</code>Environment`类代替</p>
+<li><p><code>RelaxedPropertyResolver</code> 类解析工具被删除掉,由<code>Environment</code>类代替</p>
 </li>
-<li><p>RelaxedDataBinder 类绑定工具类被删除掉,在2.0.0之后使用Binder类,如下使用方式</p>
+<li><p><code>RelaxedDataBinder</code> 类绑定工具类被删除掉,在2.0.0之后使用<code>Binder</code>类,如下使用方式</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">MyProperties target = Binder.get(environment)</span><br><span class="line">		.bind(<span class="string">"app.acme"</span>, MyProperties.class)</span><br><span class="line">		.orElse(<span class="keyword">null</span>);</span><br><span class="line"></span><br><span class="line">FlagType flagType = Binder.get(environment)</span><br><span class="line">		.bind(<span class="string">"acme.app.my-flag"</span>, FlagType.class)</span><br><span class="line">		.orElse(FlagType.DEFAULT);</span><br></pre></td></tr></table></figure>
 </li>
 </ul>
