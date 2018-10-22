@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
-    
+
   <url>
-    <loc>http://paderlol.cn/spring-boot01.html</loc>
+    <loc>https://paderlol.cn/spring-boot01.html</loc>
     <lastmod>2018-10-20T13:25:54.045Z</lastmod>
     <data>
         <display>
         <title>Spring Boot 2.0 外部化配置介绍</title>
         <pubTime>2018-10-20T07:38:22.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="SpringBoot" url="http://paderlol.cn/categories/SpringBoot/"/>
-          
+
+
+
+
+              <breadCrumb title="SpringBoot" url="https://paderlol.cn/categories/SpringBoot/"/>
+
         </display>
     </data>
     </url>
 
-    
-    
-    
-    
+
+
+
+
 </urlset>
