@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://paderlol.cn/nacos-k8s.html</loc>
+    
+    <lastmod>2018-11-11T11:56:42.470Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://paderlol.cn/spring-boot03.html</loc>
     
     <lastmod>2018-11-04T11:24:07.281Z</lastmod>
