@@ -5,7 +5,7 @@
     
   <url>
     <loc>https://paderlol.cn/nacos-k8s.html</loc>
-    <lastmod>2018-11-11T11:56:42.470Z</lastmod>
+    <lastmod>2018-11-11T11:59:07.686Z</lastmod>
     <data>
         <display>
         <title>Kubernetes Nacos集群</title>
@@ -15,6 +15,9 @@
          
          
            
+             
+              <breadCrumb title="Java" url="https://paderlol.cn/categories/Java/"/>
+          
         </display>
     </data>
     </url>
