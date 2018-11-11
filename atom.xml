@@ -213,7 +213,7 @@
     <link href="https://paderlol.cn/spring-boot03.html"/>
     <id>https://paderlol.cn/spring-boot03.html</id>
     <published>2018-10-20T07:38:22.000Z</published>
-    <updated>2018-11-04T11:22:05.214Z</updated>
+    <updated>2018-11-04T11:24:07.281Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/spring-boot03/spring-boot.png" alt="spring-boot"></p>
 <h3 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h3><p>Spring Boot的一个便捷功能是外部化配置，可以轻松访问属性文件中定义的属性。本文将详细介绍@ConfigurationProperties的使用。</p>
