@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://paderlol.cn/"/>
-  <updated>2018-11-11T11:59:07.686Z</updated>
+  <updated>2018-11-11T12:04:12.953Z</updated>
   <id>https://paderlol.cn/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://paderlol.cn/nacos-k8s.html"/>
     <id>https://paderlol.cn/nacos-k8s.html</id>
     <published>2018-11-11T11:42:22.000Z</published>
-    <updated>2018-11-11T11:59:07.686Z</updated>
+    <updated>2018-11-11T12:04:12.953Z</updated>
     
     <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>最近几天完成了 <a href="https://nacos.io" target="_blank" rel="noopener">Nacos</a> 在Kubernetes 部署,顺便写篇文章记录下部署过程，项目地址<a href="https://github.com/paderlol/nacos-k8s.git" target="_blank" rel="noopener">Nacos-K8s</a>,有兴趣的可以去了解下,后续会提交到<a href="https://github.com/nacos-group" target="_blank" rel="noopener">Nacos-Group</a> 里面。</p>
 <a id="more"></a>
